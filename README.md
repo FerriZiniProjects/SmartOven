@@ -9,7 +9,7 @@ The project consists in making a traditional kitchen oven smart, also usable rem
 Hardware requirements: ESP32, three thermocouple sensors for high temperatures with MAX6675 module, one ds18b20 sensor, buzzer, six relays (one controls the power, four resistors and fan), one buzzer.
 Main tasks inside the project: sensors, WebServer, SendInfo, SoundBuzzer, Display.
 
-### Harware scheme
+### Hardware scheme
 ![alt text](https://github.com/FerriZiniProjects/SmartOven/blob/main/scheme.jpg)
 
 ### MQTT scheme
