@@ -6,8 +6,9 @@ The project consists in making a traditional kitchen oven smart, also usable rem
 - Continuous monitoring of the current situation of the furnace.
 - Run commands through Google Assistant to improve the user experience.
 ### Description
-Hardware requirements: ESP32, three thermocouple sensors for high temperatures with MAX6675 module, one ds18b20 sensor, buzzer, six relays (one controls the power, four resistors and fan), one buzzer.
-Main tasks inside the project: sensors, WebServer, SendInfo, SoundBuzzer, Display.
+**Hardware requirements:** ESP32, three thermocouple sensors for high temperatures with MAX6675 module, one ds18b20 sensor, buzzer, six relays (one controls the power, four resistors and fan), one buzzer.
+
+**Main tasks** inside the project: sensors, WebServer, SendInfo, SoundBuzzer, Display.
 
 ### Hardware scheme
 ![alt text](https://github.com/FerriZiniProjects/SmartOven/blob/main/scheme.jpg)
